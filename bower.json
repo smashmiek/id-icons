@@ -1,0 +1,29 @@
+{
+  "name": "id-icons",
+  "version": "1.0.0",
+  "homepage": "https://github.com/smashmiek/id-icons",
+  "authors": [
+    "Michael Dunbar <info@miek.com.au>"
+  ],
+  "description": "Icons for .id Placemaker and Website",
+  "main": [
+      "style.css",
+      "variables.scss",
+      "fonts/id-icons.eot",
+      "fonts/id-icons.svg",
+      "fonts/id-icons.ttf",
+      "fonts/id-icons.woff"
+    ],
+  "keywords": [
+    "icon",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
