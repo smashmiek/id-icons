@@ -6,5 +6,5 @@ Icon font generated using IcoMoon (https://icomoon.io/app).
 
 ## Install via Bower
 ```
-bower install id-icons --save-dev
+bower install id-icons --save
 ```

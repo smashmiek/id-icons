@@ -7,7 +7,7 @@
   ],
   "description": "Icons for .id Placemaker and Website",
   "main": [
-      "style.css",
+      "_id-icons.scss",
       "variables.scss",
       "fonts/id-icons.eot",
       "fonts/id-icons.svg",
