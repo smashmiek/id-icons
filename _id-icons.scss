@@ -2,11 +2,11 @@ $id-icons-font-path: "fonts/" !default;
 
 @font-face {
 	font-family: 'id-icons';
-	src:url('#{$id-icons-font-path}id-icons.eot?j3c00y');
-	src:url('#{$id-icons-font-path}id-icons.eot?j3c00y#iefix') format('embedded-opentype'),
-		url('#{$id-icons-font-path}id-icons.ttf?j3c00y') format('truetype'),
-		url('#{$id-icons-font-path}id-icons.woff?j3c00y') format('woff'),
-		url('#{$id-icons-font-path}id-icons.svg?j3c00y#id-icons') format('svg');
+	src:url('#{$id-icons-font-path}id-icons.eot');
+	src:url('#{$id-icons-font-path}id-icons.eot?#iefix') format('embedded-opentype'),
+		url('#{$id-icons-font-path}id-icons.ttf') format('truetype'),
+		url('#{$id-icons-font-path}id-icons.woff') format('woff'),
+		url('#{$id-icons-font-path}id-icons.svg?#id-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
