@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: 'id-icons';
-    src:    url('#{$icomoon-font-path}/id-icons.eot?i7zaim');
-    src:    url('#{$icomoon-font-path}/id-icons.eot?i7zaim#iefix') format('embedded-opentype'),
-        url('#{$icomoon-font-path}/id-icons.ttf?i7zaim') format('truetype'),
-        url('#{$icomoon-font-path}/id-icons.woff?i7zaim') format('woff'),
-        url('#{$icomoon-font-path}/id-icons.svg?i7zaim#id-icons') format('svg');
+    src:    url('#{$icomoon-font-path}/id-icons.eot?8zgm1l');
+    src:    url('#{$icomoon-font-path}/id-icons.eot?8zgm1l#iefix') format('embedded-opentype'),
+        url('#{$icomoon-font-path}/id-icons.ttf?8zgm1l') format('truetype'),
+        url('#{$icomoon-font-path}/id-icons.woff?8zgm1l') format('woff'),
+        url('#{$icomoon-font-path}/id-icons.svg?8zgm1l#id-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -319,6 +319,11 @@
 .icon-share-alt {
     &:before {
         content: $icon-share-alt;
+    }
+}
+.icon-warning {
+    &:before {
+        content: $icon-warning;
     }
 }
 

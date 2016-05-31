@@ -562,11 +562,14 @@
 				"grid": 24,
 				"tags": [
 					"hamburger"
-				]
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 95,
+				"order": 146,
 				"id": 50,
 				"prevSize": 24,
 				"code": 59648,
@@ -1090,7 +1093,10 @@
 				"grid": 24,
 				"tags": [
 					"add-solid"
-				]
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1114,7 +1120,10 @@
 				"grid": 24,
 				"tags": [
 					"minus-solid"
-				]
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -1138,7 +1147,10 @@
 				"grid": 24,
 				"tags": [
 					"cross-circle-solid"
-				]
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2229,7 +2241,10 @@
 				"grid": 24,
 				"tags": [
 					"share-alt"
-				]
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
 			},
 			"attrs": [],
 			"properties": {
@@ -2242,6 +2257,34 @@
 			"setIdx": 1,
 			"setId": 0,
 			"iconIdx": 49
+		},
+		{
+			"icon": {
+				"paths": [
+					"M592.842 215.132l405.887 701.079h-811.773l405.887-701.079zM592.842 0l-592.842 1024h1185.684l-592.842-1024zM646.737 431.158h-107.789v215.579h107.789v-215.579zM646.737 700.632h-107.789v107.789h107.789v-107.789z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"width": 1186,
+				"grid": 24,
+				"tags": [
+					"warning"
+				],
+				"colorPermutations": {
+					"1621632550": []
+				}
+			},
+			"attrs": [],
+			"properties": {
+				"order": 148,
+				"id": 52,
+				"prevSize": 24,
+				"code": 59650,
+				"name": "warning"
+			},
+			"setIdx": 1,
+			"setId": 0,
+			"iconIdx": 50
 		}
 	],
 	"height": 1024,
