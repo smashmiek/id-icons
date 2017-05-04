@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'id-icons';
-  src:  url('#{$icomoon-font-path}/id-icons.eot?wf4509');
-  src:  url('#{$icomoon-font-path}/id-icons.eot?wf4509#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/id-icons.ttf?wf4509') format('truetype'),
-    url('#{$icomoon-font-path}/id-icons.woff?wf4509') format('woff'),
-    url('#{$icomoon-font-path}/id-icons.svg?wf4509#id-icons') format('svg');
+  src:  url('#{$icomoon-font-path}/id-icons.eot?1ef2rk');
+  src:  url('#{$icomoon-font-path}/id-icons.eot?1ef2rk#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/id-icons.ttf?1ef2rk') format('truetype'),
+    url('#{$icomoon-font-path}/id-icons.woff?1ef2rk') format('woff'),
+    url('#{$icomoon-font-path}/id-icons.svg?1ef2rk#id-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,51 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cat-default {
+  &:before {
+    content: $icon-cat-default;
+  }
+}
+.icon-cat-large-area-forecasts {
+  &:before {
+    content: $icon-cat-large-area-forecasts;
+  }
+}
+.icon-cat-population-forecasts {
+  &:before {
+    content: $icon-cat-population-forecasts;
+  }
+}
+.icon-catpop {
+  &:before {
+    content: $icon-catpop;
+  }
+}
+.icon-cat-community {
+  &:before {
+    content: $icon-cat-community;
+  }
+}
+.icon-cat-education {
+  &:before {
+    content: $icon-cat-education;
+  }
+}
+.icon-cat-housing {
+  &:before {
+    content: $icon-cat-housing;
+  }
+}
+.icon-cat-transport-comms {
+  &:before {
+    content: $icon-cat-transport-comms;
+  }
+}
+.icon-cat-work-income {
+  &:before {
+    content: $icon-cat-work-income;
+  }
+}
 .icon-hamburger {
   &:before {
     content: $icon-hamburger;
@@ -299,6 +344,16 @@
 .icon-email {
   &:before {
     content: $icon-email;
+  }
+}
+.icon-reset {
+  &:before {
+    content: $icon-reset;
+  }
+}
+.icon-refresh {
+  &:before {
+    content: $icon-refresh;
   }
 }
 
